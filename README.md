@@ -1,4 +1,12 @@
 # HTML Course Curriculum
+Welcome to my **HTML Learning Repository**!  
+This repository contains a **structured HTML course curriculum** designed for **beginners, college students, and professionals** who want to build strong fundamentals and create projects.   
+
+## 📂 Table of Contents  
+- [Week 1: Introduction & Fundamentals](#week-1-introduction--fundamentals)  
+- [Week 2: HTML Basics](#Week-2-Colors-CSS-Links-Images-Tables-Lists)  
+- [Week 3: Forms & Lists](#Week-3-Responsive-Design-Forms)  
+- [Week 4: Multimedia & HTML APIs](#week-4-multimedia--html-apis)  
 
 ## Week 1: Introduction & Fundamentals
 
